@@ -1,0 +1,3 @@
+Partitioning done (PartitionFinder).
+Generated tree (RaxML with PF partitions).
+Completed monophyly test for /SAN/biosciences/oma/research/Abraham_Olaoye/Pipeline/Data/Sample_2/raxml_results/with_partitioning/PF/RAxML_bestTree.Tree.

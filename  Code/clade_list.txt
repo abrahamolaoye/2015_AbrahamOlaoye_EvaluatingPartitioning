@@ -1,0 +1,29 @@
+Lophotrochozoa Lymnaea_stagnalis_cd.fa Adineta_ricciae_14cd_cd.fa Crassostrea_gigas.pep CAPI1_cd.fa Catenulida_fasta_cd.fa Cephalothrix_linearis_struck_cd.fa Cerebratulus_spclean14cd_cd.fa LOTGI_cd.fa Leptochiton_rugatus.fasta.clean.cd.transdecoder.pep HELRO_cd.fa
+Rotifier Adineta_ricciae_14cd_cd.fa
+Annelida Owenia-fusiformis-Trinity-2.0.6.12off-left5offend.fasta.transdecoder.pep  Alvinella_pompejana_struck_cd.fa HELRO_cd.fa Magelona-Trinity-2.0.6.12off-left5offend.fasta.transdecoder.pep
+Nematoda Brugia_malayi.pep Caenorhabditis_elegans.pep Trichinella_spiralis.pep Pristionchus_pacificus.pep
+Bryozoa Bugula_neritina-Trinity-2.0.6.fasta.transdecoder.pep
+Arthropoda Apis_mellifera_struck_cd.fa Catenula_cd.fa Solenopsis_invicta.pep Daphnia_pulex_struck_cd.fa Danaus_plexippus.pep Ixodes_scapularis.pep Solenopsis_invicta.pep DAPPU_cd.fa PEDHC_cd.fa TRICA_cd.fa
+Platyhelminthes Catenulida_fasta_cd.fa Echinoplana_celerrimaclean_cd.fa Geocentrophora_applanata.fasta.clean.cd.transdecoder.pep Microstomum_lineareclean_cd.fa Macrostomum_lignanoclean_cd.fa Maritigrella_cd.fa Protomonotresidae_sp.fasta.clean.cd.transdecoder.pep
+Nemertea Cephalothrix_l inearis_struck_cd.fa Cerebratulus_spclean14cd_cd.fa Malacobdella_grossa.fasta.clean.cd.transdecoder.pep Paranemertes_peregrina.fasta.clean.cd.transdecoder.pep Tubulanus_polymorphus_struck_cd.fa
+Chordata Ciona_intestinalis.pep HUMAN_cd.fa BRAFL_cd.fa
+Mollusca Crassostrea_gigas.pep Lymnaea_stagnalis_cd.fa LOTGI_cd.fa Proneomenia_custodiens.fasta.clean.cd.transdecoder.pep Neomenia_megatrapezata_struck_cd.fa Leptochiton_rugatus.fasta.clean.cd.transdecoder.pep Neomenia_megatrapezata_struck_cd.fa
+Brachiopoda Glottidia_pyramidata.fasta.clean.cd.transdecoder.pep Hemithiris_psittacea.fasta.clean.cd.transdecoder.pep Laqueus_californicus.fasta.clean.cd.transdecoder.pep
+Sipuncula Golfingia_vulgarisclean_cd.fa
+Gastrotricha Lepidodermella_squamata.fasta.clean.cd.transdecoder.pep Mesodasys_laticaudatusclean_cd.fa
+Entoprocta Loxosoma_pectinaricola.fasta.clean.cd.transdecoder.pep Barentsia_gracilis.fasta.clean.cd.transdecoder.pep
+Acanthocephala Macracanthorhynchus_hirudinaceus_struck_cd.fa
+Cnidaria Hydra_M_cd.fa NEMVE_cd.fa
+Phoronida Phoronis_psammophila.fasta.clean.cd.transdecoder.pep Phoronis_vancouverensis.fasta.clean.cd.transdecoder.pep
+Priapulida Priapulus_caudatus_cd.fa 
+Hemichordata Rhabdopleura_cd.fa Saccoglossus_kowalevskii_cd.fa Rhabdopleura_cd.fa
+Ambulacraria STRPU_cd.fa
+Porifera Sycon_coactum_cd.fa
+Placozoa TRIAD_cd.fa
+Echinodermata Patiria_m_cd.fa
+
+
+
+
+
+
